@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    image: usnadin-raiymbek-devops
+    container_name: usnadin-raiymbek-container
+    environment:
+      - STUDENT_NAME=Raiymbek
+      - STUDENT_SURNAME=Usnadin
+      - STUDENT_GROUP=IT2-2310
+      - STUDENT_ID=38318
