@@ -1,0 +1,5 @@
+Name: Raiymbek
+Surname: Usnadin
+Group: IT2-2310
+Student ID: 38318
+Course: DevOps
